@@ -1,5 +1,5 @@
 # ayekyawmin.github.io
-The application is for draft page to choose color matching. Please use and advise me to extend the application.
+The application is for draft web page to choose color matching. Please use and advise me to extend the application.
 To test the application, please insert following colors in related input fields.
 
 Background Color : powderblue
