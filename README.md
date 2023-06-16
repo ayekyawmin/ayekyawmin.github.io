@@ -2,11 +2,11 @@
 The application is for draft website to choose color matching. Please use and advise me to extend the application.
 To test the application, please insert following colors in related input fields.
 
-Background Color : powderblue
-NavBar BgColor   : teal
-NavBar frColor   ; white
-Company Name     ; Sample Name
-Image Name       : bird.png
+Background Color : powderblue, 
+NavBar BgColor   : teal, 
+NavBar frColor   ; white, 
+Company Name     ; Sample Name, 
+Image Name       : bird.png, 
 Description      : Write brief description for the company
 
 
